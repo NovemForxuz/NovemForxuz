@@ -1,6 +1,6 @@
 <h1> Hi, I'm Heriz Yusoff </h1>
 🔭 I'm currently working on a cool web portfolio!<br>
-🌱 I'm currently learning <b>React framework</b> <br>
+🌱 I'm currently learning <b>Single page application framework</b> <br>
 💬 Reach out to me at <em>mheriz001@e.ntu.edu.sg</em> <br>
 ⚡ Fun fact, I almost hit 500km of running in 2022!
 <!--  🔥 Check all my projects on my website!-->
